@@ -1,4 +1,4 @@
-package com.erudio.exeptions;
+package com.erudio.exceptions;
 
 import lombok.Data;
 
